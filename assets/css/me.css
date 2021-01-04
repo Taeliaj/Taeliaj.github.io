@@ -205,7 +205,8 @@ body.page-template-page-fullsingle-me {
   letter-spacing: -0.5px;
 
 
-  color: #fff;
+  color: rgb(76, 161, 68);
+
   background-image: url('../../images/hur.jpg');
   background-position: center center;
   background-size: cover;
